@@ -1,0 +1,29 @@
+body{
+    background-image: radial-gradient(circle at center, darkred, black);
+    width: 30vw;
+    height: 98vh;
+}
+#prenom{
+    margin-bottom: 5px;
+}
+#nom{
+    margin-bottom: 5px;
+}
+#email{
+    margin-bottom: 5px;
+}
+#tel{
+    margin-bottom: 5px;
+}
+#mdp{
+    margin-bottom: 5px;
+}
+#age{
+    margin-bottom: 5px;
+}
+#com{
+    margin-bottom: 5px;
+}
+.font{
+    color: white;
+}
